@@ -12,7 +12,7 @@ b. Deviations of charges and payments related to every DRG at a State, Zip and H
 Use the "Healthcare Fraud Detection - Feature Engineering.R" Script to inspect   
 - the data cleaning and feature engineering process   
 
-Use the "Healthcare Fraud Detection - Feature Engineering.R" Script to inspect   
+Use the "Healthcare Fraud Detection - Clustering On Improved Features.R" Script to inspect   
 - additional feature engineering  
 - principal component analysis  
 - K-means clustering to find anomalies  
